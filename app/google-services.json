@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "987996013844",
+    "firebase_url": "https://complaint-app-usim-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "complaint-app-usim",
+    "storage_bucket": "complaint-app-usim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987996013844:android:2de7c22abf72d5ab7a2e01",
+        "android_client_info": {
+          "package_name": "com.example.complaintappusim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987996013844-tqgk8ao4k01f6s8lodd0aref1mbh9qd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyA2ObSIDoLhP0e4UYUAVxuEqbjeFvHCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987996013844-tqgk8ao4k01f6s8lodd0aref1mbh9qd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
